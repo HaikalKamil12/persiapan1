@@ -6,7 +6,7 @@
     <title>Haikal</title>
     <style>
         body{
-        background-color:cyan;
+        background-color:white;
     }
     table {
   border: 2px solid black;
@@ -15,11 +15,11 @@
   border-collapse: collapse;
   border: none;
   outline: solid black;
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: darkgray;
   width: 200px;
   box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.5);
-  background-image: linear-gradient(to left, blue, violet);
+  background-image: linear-gradient(to left, blue, violet, blue);
 }
 td {
     width: 100px;
@@ -48,7 +48,7 @@ color: white;
 border: none;
 border-radius: 30px;
 cursor: pointer;
-margin-bottom: 10px;
+margin-bottom: 20px;
 font-size: large;
 font-weight: bold;
 }

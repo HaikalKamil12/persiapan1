@@ -6,7 +6,7 @@
     <title>Haikal</title>
     <style>
         body{
-        background-color: cyan;
+        background-color:white;
     }
     table {
   border: 2px solid black;
@@ -17,9 +17,9 @@
   outline: solid black;
   border-radius: 10px;
   background-color: darkgray;
-  width: 100px;
+  width: 200px;
   box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.5);
-  background-image: linear-gradient(to left, blue, violet);
+  background-image: linear-gradient(to left, blue, violet, blue);
 }
 td {
     width: 100px;
@@ -63,7 +63,7 @@ color: white;
 border: none;
 border-radius: 30px;
 cursor: pointer;
-margin-bottom: 20px;
+margin-bottom: 10px;
 font-size: large;
 font-weight: bold;
 }
@@ -71,8 +71,8 @@ input[type="reset"]:hover {
 background-color: red;
 }
 .hasil {
-    border-color: 2px solid black;
-    margin-bottom: 5px; 
+    border-color: 10px solid black;
+    margin-bottom: 10px; 
     font-weight: bold; 
     text-align: center;
 }

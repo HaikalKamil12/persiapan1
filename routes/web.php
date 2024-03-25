@@ -15,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('kalkulator.index');
+    return view('kalkulator.kalkulator2');
 });
 Route::resource('proses', ProsesController::class);
